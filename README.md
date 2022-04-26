@@ -23,6 +23,7 @@
   <a href="https://github.com/ionic-team/ionic/blob/main/.github/CONTRIBUTING.md">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
   </a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fmarco-santulli%2Fionic-framework?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmarco-santulli%2Fionic-framework.svg?type=shield"/></a>
   <a href="https://twitter.com/Ionicframework">
     <img src="https://img.shields.io/twitter/follow/ionicframework.svg?label=Follow%20@IonicFramework" alt="Follow @IonicFramework">
   </a>
@@ -49,6 +50,9 @@
   <span> · </span>
   <a href="https://twitter.com/Ionicframework">Twitter</a>
 </h2>
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmarco-santulli%2Fionic-framework.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmarco-santulli%2Fionic-framework?ref=badge_large)
 
 ### Packages
 
